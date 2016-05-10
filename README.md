@@ -1,8 +1,8 @@
-#P5: Classic Arcade Game Clone
+# HTML5 Arcade Game Clone
 
 ######About
 
-This is my submission for project #5 for the Front End Web Developer nanodegree at Udacity. It is a simplified clone of the classic frogger game prevalent in the early Atari and arcade gaming scene.
+This is my submission for project #5 for the Front End Web Developer nanodegree at Udacity. It is a simplified (and snooze-worthy) clone of the classic frogger game prevalent in the early Atari and arcade gaming scene.
 
 ##Getting Started
 
